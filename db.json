@@ -1,6 +1,6 @@
 {
-  "key": "defaultkey",
-  "database": {
-    "1.1.1.1": {},
-  }
+    "key": "somevalue",
+    "database": {
+        "192.168.1.1": {}
+    }
 }
