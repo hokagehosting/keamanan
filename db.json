@@ -1,4 +1,4 @@
 {
-  "database": ["192.168.1.1", "203.0.113.5"],  // Daftar IP yang valid
-  "key": "valid-key-12345"                      // Key yang valid
+  "database": ["192.168.1.1", "203.0.113.5"], 
+  "key": "valid-key-12345"
 }
