@@ -1,7 +1,6 @@
 {
   "key": "defaultkey",
   "database": {
-    "EMPTY_IP": {},
-    "1.1.1.1": {}
+    "1.1.1.1": {},
   }
 }
